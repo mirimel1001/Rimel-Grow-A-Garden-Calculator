@@ -3,6 +3,39 @@ An offline <b>open source</b> AutoHotkey calculator for the Roblox game Grow A G
 
 ## **_Do not redistribute without proper credits to our discord server._**
 
+---
+
+
+# ©️ Credits
+## Created by: Rimel's Discord V2 [Click here to join!](https://discord.gg/mkMy3Cd)
+
+<img src="https://github.com/user-attachments/assets/e9bb07c3-ce25-48bc-b182-960fa844932e" width="100" height="100" alt="Example Image">
+
+**Version:** 1.0
+
+### Special Thanks To:
+- ChatGPT & Perplexity ai
+- The AutoHotkey community
+- Users for feedback
+
+---
+
+### Support
+
+- **GAG Calculator:** [Github](https://github.com/mirimel1001/Rimel-Grow-A-Garden-Calculator)
+- **Rimel's Discord V2:** [Click here to join](https://discord.gg/mkMy3Cd)
+
+
+<i>We respond to messages on Discord faster.</i>
+
+<i>Join now and take necessary roles to see relevant channels.</i>
+
+---
+
+## **_Do not redistribute without proper credits to our discord server._**
+
+---
+
 # 🛠 Installation
  - You require AutoHotkey v1.1 [click here to go to website](https://autohotkey.com/) or [click here to download](https://autohotkey.com/download/ahk-install.exe).
 
@@ -10,6 +43,8 @@ An offline <b>open source</b> AutoHotkey calculator for the Roblox game Grow A G
 
  - Download the zip by [clicking here](https://github.com/mirimel1001/Rimel-Grow-A-Garden-Calculator/archive/refs/heads/main.zip) or just the Main.ahk from the github.
  - Run the Main.ahk to use the calculator.
+
+---
 
 # ⚙️ Usage
  - Select your crop from the 'Crop Selection' tab.
@@ -27,6 +62,8 @@ An offline <b>open source</b> AutoHotkey calculator for the Roblox game Grow A G
  - Type your crop price if you used a 🔎 Magnifying Glass on it to find its current weight.
 
    <img src="https://github.com/user-attachments/assets/1888865e-35b3-4449-b178-59279e7b88e2" width="400" height="225"  alt="Example Image">
+
+---
 
 # ©️ Credits
 ## Created by: Rimel's Discord V2 [Click here to join!](https://discord.gg/mkMy3Cd)
@@ -47,7 +84,6 @@ An offline <b>open source</b> AutoHotkey calculator for the Roblox game Grow A G
 - **GAG Calculator:** [Github](https://github.com/mirimel1001/Rimel-Grow-A-Garden-Calculator)
 - **Rimel's Discord V2:** [Click here to join](https://discord.gg/mkMy3Cd)
 
----
 
 <i>We respond to messages on Discord faster.</i>
 
