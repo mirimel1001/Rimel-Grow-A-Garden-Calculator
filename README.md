@@ -1,4 +1,4 @@
-# Rimel-Grow-A-Garden-Calculator
+# Rimel Grow A Garden Calculator
 An offline <b>open source</b> AutoHotkey calculator for the Roblox game Grow A Garden!
 
 # 🛠 Installation
@@ -53,5 +53,6 @@ An offline <b>open source</b> AutoHotkey calculator for the Roblox game Grow A G
 
 ---
 
-<span style="color:red"><b><i>Do not redistribute without proper credits to our discord server.</i></b></span>
+## **_Do not redistribute without proper credits to our discord server._**
+
 
