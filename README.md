@@ -61,7 +61,7 @@ An offline <b>open source</b> AutoHotkey calculator for the Roblox game Grow A G
 
  - Select your mutations from the 'Calculator' tab.
 
-   <img src="https://github.com/user-attachments/assets/edc982ca-7980-4782-8147-a22384b3fa9f" width="400" height="225" alt="Mutation Selection">
+   <img src="https://github.com/user-attachments/assets/3b13a59e-a734-4994-b7d2-bf55569cab00" width="400" height="225" alt="Mutation Selection">
 
  - Type your crop weight in KG and Calculate to see price with details.
 
