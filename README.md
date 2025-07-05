@@ -5,6 +5,10 @@ An offline <b>open source</b> AutoHotkey calculator for the Roblox game Grow A G
 
 ---
 
+# ⬇️ Download
+## [Clicking here to Download](https://github.com/mirimel1001/Rimel-Grow-A-Garden-Calculator/archive/refs/heads/main.zip) or just the Main.ahk from the github.
+
+---
 
 # ©️ Credits
 ## Created by: Rimel's Discord V2 [Click here to join!](https://discord.gg/mkMy3Cd)
@@ -18,9 +22,13 @@ An offline <b>open source</b> AutoHotkey calculator for the Roblox game Grow A G
 - The AutoHotkey community
 - Users for feedback
 
----
 
-### Support
+#--- ⬇️ Download
+## Download the zip by [clicking here](https://github.com/mirimel1001/Rimel-Grow-A-Garden-Calculator/archive/refs/heads/main.zip) or just the Main.ahk from the github.
+
+
+###---
+ Support
 
 - **GAG Calculator:** [Github](https://github.com/mirimel1001/Rimel-Grow-A-Garden-Calculator)
 - **Rimel's Discord V2:** [Click here to join](https://discord.gg/mkMy3Cd)
